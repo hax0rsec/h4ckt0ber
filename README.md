@@ -1,2 +1,2 @@
 # h4ckt0ber
-My Hacktoberfest-2019 repository
+My own Hacktoberfest-2019 repository
